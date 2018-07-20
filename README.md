@@ -64,12 +64,14 @@ SbbRBF3uhTbc7pWKNhrkAdi9EzEr9LOBHJ38+asVsyhBAffa
 ```
 EFI
 |---xloader
-      |---acpi
-      |     |--dump
-      |     |--load
-      |---driver
-      |---kexts
-      |     |--10.13
-      |     |--other
-      |---defaults.plist
+|     |---acpi
+|     |     |--dump
+|     |     |--load
+|     |---driver
+|     |---kexts
+|     |     |--10.13
+|     |     |--other
+|     |---defaults.plist
+|---key.po
+|---series.po
 ```
