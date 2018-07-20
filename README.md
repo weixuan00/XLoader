@@ -59,7 +59,7 @@ SbbRBF3uhTbc7pWKNhrkAdi9EzEr9LOBHJ38+asVsyhBAffa
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-#directory structure
+# directory structure
 
 ```
 EFI
