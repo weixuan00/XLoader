@@ -1,7 +1,9 @@
 # XLoader
 New BootDriver.(Refer To VBox And Clover's source code)
 
-PGP Public Key
+All File will sign By PGP,You can Verify it By My PGP Public Key
+
+Here is PGP Public Key,Please import it
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mQINBFnsY+MBEADTk+rjztSTDa+koz6izWpFpt4tZN0MFRJLfJIKc1fj/mdY6HMw
