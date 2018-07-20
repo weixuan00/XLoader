@@ -61,6 +61,7 @@ SbbRBF3uhTbc7pWKNhrkAdi9EzEr9LOBHJ38+asVsyhBAffa
 
 #directory structure
 
+```
 EFI
 |---xloader
       |---acpi
@@ -71,3 +72,4 @@ EFI
       |     |--10.13
       |     |--other
       |---defaults.plist
+```
