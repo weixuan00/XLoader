@@ -3,6 +3,8 @@ New BootDriver.(Refer To VBox And Clover's source code)
 
 All File will sign By PGP,You can Verify it By My PGP Public Key
 
+If compressed files do not contain sig files, they are all hooligans, Don't trust it!
+
 Here is PGP Public Key,Please import it
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
