@@ -58,3 +58,16 @@ SbbRBF3uhTbc7pWKNhrkAdi9EzEr9LOBHJ38+asVsyhBAffa
 =mHY9
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+#directory structure
+
+EFI
+|---xloader
+      |---acpi
+      |     |--dump
+      |     |--load
+      |---driver
+      |---kexts
+      |     |--10.13
+      |     |--other
+      |---defaults.plist
