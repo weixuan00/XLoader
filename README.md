@@ -104,6 +104,9 @@ EFI
 </plist>
 ```
 
+# Debug
+If you wanna see debug log,  Create a new text document named debug.log in EFI\xloader\,  Then reboot your computer, You will see in this debug.log, :)
+
 # BUG Report
 peerio: @d1ves  (always online)
 
