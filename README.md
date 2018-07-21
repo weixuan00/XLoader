@@ -76,6 +76,34 @@ EFI
 |---series.po
 ```
 
+# Configuration file template
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Boot</key>
+	<dict>
+		<key>Arguments</key>
+		<string>-v</string>
+	</dict>
+	<key>RtVariables</key>
+	<dict>
+		<key>BooterConfig</key>
+		<string>0x28</string>
+		<key>CsrActiveConfig</key>
+		<string>0x67</string>
+	</dict>
+	<key>SMBIOS</key>
+	<dict>
+		<key>ProductName</key>
+		<string>iMac14,2</string>
+	</dict>
+</dict>
+</plist>
+```
+
 # BUG Report
 peerio: @d1ves  (always online)
 
